@@ -56,6 +56,10 @@ section{
     font-size: 18px;
 }
 
+.img{
+    padding-right: 80px;
+}
+
 /* Creating About Me Layout in CSS */
 .content{
     display:flex;
